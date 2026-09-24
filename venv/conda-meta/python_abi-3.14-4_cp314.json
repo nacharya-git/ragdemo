@@ -1,0 +1,33 @@
+{
+  "name": "python_abi",
+  "version": "3.14",
+  "build": "4_cp314",
+  "build_number": 4,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "python_abi-3.14-4_cp314.conda",
+  "md5": "d680cd23058d367aef8844bb40abb47c",
+  "legacy_bz2_md5": "d43d34fe53b5a9f83b40dc09f30054f5",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/python_abi-3.14-4_cp314.conda",
+  "sha256": "4bd5230b703c07d2d840f75b3a915b19bfc39cd610552d1528c36f2891c64dd5",
+  "depends": [],
+  "constrains": [
+    "python 3.14.* *_cp314"
+  ],
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "timestamp": 1782805883522,
+  "size": 5576,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/Users/nrusinghaprasadacharya/miniconda3/pkgs/python_abi-3.14-4_cp314.conda",
+  "extracted_package_dir": "/Users/nrusinghaprasadacharya/miniconda3/pkgs/python_abi-3.14-4_cp314",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "/Users/nrusinghaprasadacharya/miniconda3/pkgs/python_abi-3.14-4_cp314",
+    "type": 1
+  }
+}
