@@ -12,3 +12,5 @@ Question or doubt ?
 Ans. using persist_directory option in chrama() function
 
 6. Ollama LLM how to access directly via API KEY instead of pulling it to local system. ?
+
+7. test
