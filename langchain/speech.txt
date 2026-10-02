@@ -1,0 +1,1 @@
+A vector database stores high-dimensional embeddings representing the semantic meaning of data and enables similarity-based retrieval, allowing applications such as RAG systems to find contextually relevant information rather than relying only on exact keyword matches.

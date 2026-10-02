@@ -1,2 +1,9 @@
 langchain
 ipykernel
+langchain_community
+pypdf
+beautifulsoup4
+langchain_text_splitters
+python-dotenv
+langchain-openai
+chromadb
